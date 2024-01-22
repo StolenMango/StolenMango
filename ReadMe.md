@@ -12,7 +12,7 @@ Hi, my name is Ioan Simionescu! I am Dedicated and innovative junior developer w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StolenMango&theme=dark&hide_border=false)<br/>
 
 # :space_invader: CodeWars
-![](https://www.codewars.com/users/jhoffner/badges/large)
+![](https://www.codewars.com/users/StolenMango/badges/large)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

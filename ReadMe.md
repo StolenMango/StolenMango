@@ -10,7 +10,7 @@ Hi, my name is Ioan Simionescu! I am Dedicated and innovative junior developer w
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StolenMango&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StolenMango&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StolenMango&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StolenMango&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://www.codewars.com/users/jhoffner/badges/large)
 
 ### ✍️ Random Dev Quote

@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=StolenMango&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Hi, my name is Ioan Simionescu! I am Dedicated and innovative junior developer with a robust foundation in full stack development acquired through the School of Code's intensive bootcamp. My educational background includes a master's in Virtual and Augmented Reality, providing me with hands-on experience in agile methodologies and exposure to cutting-edge technologies like the Unreal Engine(UE4). My passion for software development was ignited during this time, leading me to join the School of Code and immerse myself in honing skills such as JavaScript, React, Node.js, TypeScript, HTML5, CSS, and more.
 
@@ -21,6 +23,5 @@ Hi, my name is Ioan Simionescu! I am Dedicated and innovative junior developer w
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=StolenMango&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/StolenMango/StolenMango/blob/output/github-contribution-grid-snake.gif)

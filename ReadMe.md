@@ -23,4 +23,4 @@ Hi, my name is Ioan Simionescu! I am Dedicated and innovative junior developer w
 ---
 [![](https://visitcount.itsvg.in/api?id=StolenMango&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/StolenMango/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/StolenMango/StolenMango/blob/output/github-contribution-grid-snake.gif)

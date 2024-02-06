@@ -8,11 +8,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ionut1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StolenMango) 
 
-## 🔧 :
+## 🔧 Project:
 | Project | Deployment link | github repository |
 | :---         |     :---:      |          ---: |
-| `BeCalm`   | https://becalm-final-project.onrender.com  | git status    |
-| `SoC Project hub`    | https://projectfrontend-wp8f.onrender.com/#       | git diff  |
+| `BeCalm`   | https://becalm-final-project.onrender.com  | **(Private repository: can show and tell through sharescreen)**    |
+| `SoC Project hub`    | https://projectfrontend-wp8f.onrender.com/#       | https://github.com/SchoolOfCode/bc15-w8-project-front-end-elevensies  |
 | `Chess clone`   | **(not deployed yet)**   | https://github.com/StolenMango/Chess-game  |
 
 # 💻 Tech Stack:

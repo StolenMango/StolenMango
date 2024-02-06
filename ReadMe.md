@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ionut1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StolenMango) 
 
 ## Projects
+| Command ||
+| --- | --- |
 | `BeCalm` | https://becalm-final-project.onrender.com |
 | `SoC Project hub` |  https://projectfrontend-wp8f.onrender.com/# |
 | `Chess clone` | https://github.com/StolenMango/Chess-game **not deployed yet**  |

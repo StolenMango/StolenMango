@@ -1,6 +1,6 @@
-[![](https://visitcount.itsvg.in/api?id=StolenMango&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+There!+%F0%9F%91%8B;I'm+Ioan+Simionescu!;You+can+also+call+me+%22John%22!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+There!+%F0%9F%91%8B;I'm+Ioan+Simionescu!;You+can+also+call+me+%22John%22!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![](https://visitcount.itsvg.in/api?id=StolenMango&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 # 💫 About Me:
   Hi, my name is Ioan Simionescu! I am a dedicated and innovative junior developer with a robust foundation in full stack development acquired through the School of Code's intensive bootcamp. My educational background includes a master's in Virtual and Augmented Reality, providing me with hands-on experience in agile methodologies and exposure to cutting-edge technologies like the Unreal Engine(UE4). My passion for software development was ignited during this time, leading me to join the School of Code and immerse myself in honing skills such as JavaScript, React, Node.js, TypeScript, HTML5, CSS, and more.
 

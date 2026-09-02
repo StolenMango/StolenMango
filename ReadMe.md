@@ -11,6 +11,9 @@
 ## 🔧 Projects:
 | Project | Deployment link | github repository |
 | :---         |     :---:      |          ---: |
+| `Treasure Hoarder`   | **(not deployed yet)**   | https://github.com/StolenMango/Treasure-Hoarder  |
+| `Asteroids`   | **(not deployed yet)**   | https://github.com/StolenMango/asteroids_game  |
+| `BookBot`   | **(not deployed yet)**   | https://github.com/StolenMango/bookbot  |
 | `BeCalm`   | https://becalm-final-project.onrender.com  | **(Private repository: can show and tell through sharescreen)**    |
 | `SoC Project hub`    | https://projectfrontend-wp8f.onrender.com/#       | https://github.com/SchoolOfCode/bc15-w8-project-front-end-elevensies  |
 | `Chess clone`   | **(not deployed yet)**   | https://github.com/StolenMango/Chess-game  |
